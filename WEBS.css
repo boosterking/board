@@ -75,6 +75,14 @@
 .header .header_tit{
     text-align: center;
 }
+.header .header_tit h1 {
+    font-size: 28px;
+    padding: 5px 20px 6px 20px;
+    display: inline-block;
+    margin-top: 40px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
 .header .header_tit a{
     display: inline-block;
     background-color: #2698cb;
